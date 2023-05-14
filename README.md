@@ -1,7 +1,8 @@
 # FakeNewsDetection
 Page Web avec Django pour detecter fake news en utilisant machine learning 
 ![fake_news](https://github.com/haazelnuter/FakeNewsDetection/assets/96618018/240b156c-6eaa-4a58-8d92-70fff91bbef1)
-voici le text utilise pour faire le test : **Valentin Castellanos scored all four goals as Girona stunned Real Madrid 4-2 at the Estadi Montilivi in a wild result.
+voici le text utilise pour faire le test :
+**Valentin Castellanos scored all four goals as Girona stunned Real Madrid 4-2 at the Estadi Montilivi in a wild result.
 The visitors battered Girona in the opening stages, winning four corners and registering five shots on goal inside 10 minutes.
 But the hosts took full advantage of their first foray into the Real half as left-back Miguel Gutierrez found Castellanos free inside the box, the striker heading home the opener.** 
 ------------------------------------------------------------------------------------------------
