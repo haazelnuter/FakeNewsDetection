@@ -1,0 +1,108 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.coloured-section {
+    background-color: #000;
+}
+
+#main .container-fluid {
+    padding: 3% 15% 7%;
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png");
+    margin-right: 90px;
+}
+
+.title {
+    /*padding-top: 0%;
+    padding-bottom: 0%;*/
+    text-align: center;
+    color: #fff;
+}
+
+a {
+    font-family: 'Ubuntu';
+    font-size: 3rem;
+}
+
+.big-heading {
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: #5bc0de;
+    margin: 0 auto; /* add this line to center the text horizontally */
+}
+
+.textbox {
+    padding: 1%;
+}
+
+.form-rounded {
+    width: 900px;
+    max-width: 1200px; /* Modifier la largeur maximale */
+    height: 350px;
+    padding: 1%;
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    resize: none;
+    display: inline-block;
+    border-radius: 0.5rem; /* Ajouter une bordure arrondie */
+}
+
+.text {
+    text-align: center;
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+.text::placeholder {
+    width: calc(50% - 1%);
+    max-width: calc(50% - 1%);
+    height: 380px;
+    max-height: 380px;
+    padding: 1%;
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    resize: vertical;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.submit-button {
+  display: inline-block;
+  width: calc(50% - 1%);
+  max-width: calc(50% - 1%);
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: "Montserrat";
+  background-color: #5bc0de;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  vertical-align: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#info {
+    padding: 10% 10%;
+}
+
+#result {
+    padding: 10% 10%;
+}
+table {
+    background-color: #ffffff; /* blanc */
+    color: #000000; /* noir */
+  }
+.coloured-section{
+    background: #ffffff;
+}
+
