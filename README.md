@@ -7,8 +7,11 @@ But the hosts took full advantage of their first foray into the Real half as lef
 ------------------------------------------------------------------------------------------------
 Il s'agit du news du match de Real Madrid contre Girona le 25/04/2023 , real madrid 2-4 Girona 
 Le resultat donne par la page web : 
+------------------------------------------------------------------------------------------------
 Probabilite que la nouvelle soit real news est: 0.9494909406403343
 Probabilite que la nouvelle fake news est :0.050509059359665556
+------------------------------------------------------------------------------------------------
 ![3](https://github.com/haazelnuter/FakeNewsDetection/assets/96618018/e75231bb-c684-460b-8d9f-3096e2a9d528)
-![Uploading 4.png…]()
+![4](https://github.com/haazelnuter/FakeNewsDetection/assets/96618018/6698a352-7617-457c-a2f3-e1c171aa0c44)
+
 
